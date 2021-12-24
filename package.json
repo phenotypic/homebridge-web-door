@@ -16,15 +16,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Tommrodrigues/homebridge-web-door.git"
+    "url": "git+https://github.com/phenotypic/homebridge-web-door.git"
   },
   "keywords": [
     "homebridge-plugin"
   ],
-  "author": "Tom Rodrigues",
+  "author": "phenotypic",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/Tommrodrigues/homebridge-web-door/issues"
+    "url": "https://github.com/phenotypic/homebridge-web-door/issues"
   },
-  "homepage": "https://github.com/Tommrodrigues/homebridge-web-door#readme"
+  "homepage": "https://github.com/phenotypic/homebridge-web-door#readme"
 }
