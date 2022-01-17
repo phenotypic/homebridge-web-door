@@ -1,6 +1,6 @@
 {
   "name": "homebridge-web-door",
-  "version": "1.0.5",
+  "version": "1.0.6",
   "description": "Homebridge plugin for a web-based door",
   "main": "index.js",
   "dependencies": {
